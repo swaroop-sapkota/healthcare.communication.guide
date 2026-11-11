@@ -1,0 +1,291 @@
+{
+  "intro": "This guide shows how a nurse can adapt a blood-draw conversation to a patient’s developmental needs while making room for concerns related to difficult past experiences. The examples focus on communication before routine, nonurgent blood draws. They are illustrative conversations, not quotations from the articles or instructions for performing venipuncture.",
+  "background": "Felitti et al. (1998) found an association between greater exposure to childhood adversity and several health risks and health problems in adulthood. These findings provide a reason to consider a patient’s developmental history, but they do not show that every frightened patient has experienced trauma or that a particular question will reduce distress. In this guide, the nurse asks about relevant discomfort without requesting an ACE score or requiring the patient to describe what happened.",
+  "stages": [
+    {
+      "title": "Childhood",
+      "slug": "childhood",
+      "label": "Simple explanations and comfort",
+      "intro": "A school-age child may understand a short, clear explanation better than a long medical one. Speak to the child, even when a parent is there, and give them time to answer (Bell & Condren, 2016).",
+      "tips": [
+        "Use familiar words: Explain what the test is for and what the child will feel. Be honest that the needle may pinch or sting.",
+        "Talk at the child’s level: Sit or bend down so you can speak face-to-face. Ask one question at a time.",
+        "Include the parent: Let the child answer first. A parent can help explain or give comfort without taking over.",
+        "Give small choices: Ask whether the child wants to watch or look away. Find out whether a countdown would help."
+      ],
+      "past": [
+        "Felitti et al. (1998) found that childhood adversity was linked with health risks later in life. This is why the nurse makes room for concerns about earlier experiences. It does not mean that every nervous patient has experienced trauma. Ask what makes needles, touch, or being held still uncomfortable, without asking for an ACE score or a full account of the past.",
+        "If the patient does not want to answer, that is okay. The nurse can still ask what would help today. The communication advice comes from Bell and Condren (2016)."
+      ],
+      "scene": "A seven-year-old comes in with their mother. The following is an example conversation.",
+      "lines": [
+        [
+          "Nurse",
+          "Hi, I’m Alex. Have you had a blood test before?"
+        ],
+        [
+          "Child",
+          "Yes. I don’t like it."
+        ],
+        [
+          "Nurse",
+          "Did something happen before that made it scary?"
+        ],
+        [
+          "Child",
+          "They held my arm really tight."
+        ],
+        [
+          "Nurse",
+          "What worries you about today—being touched, being held still, the needle, or something else?"
+        ],
+        [
+          "Child",
+          "I don’t want anyone holding me like that."
+        ],
+        [
+          "Nurse",
+          "Okay, let’s wait a moment. I’ll tell you before I touch your arm. Would you like Mom next to you?"
+        ],
+        [
+          "Child",
+          "Yes."
+        ],
+        [
+          "Nurse",
+          "We’ll take a little blood for the test. It may pinch. Do you want me to count before we start?"
+        ],
+        [
+          "Child",
+          "No. Can I look at Mom’s phone?"
+        ],
+        [
+          "Nurse",
+          "Yes. Let’s get that ready first. If you need a break, you can tell me. I'll stop when it's safe. Okay?"
+        ],
+        [
+          "Child",
+          "Okay."
+        ]
+      ],
+      "changes": "The nurse slows down, explains before touching, and involves Mom in a way the child wants. Before starting, the nurse explains why the arm needs to stay still and how to ask for a safe pause. If the child is still too upset, the nurse pauses the nonurgent blood draw and talks with the care team about another plan. At this age, the child makes small choices but may still depend on a parent for comfort and support.",
+      "distinct": "At this age, the child makes small choices but may still depend on a parent for comfort and support."
+    },
+    {
+      "title": "Adolescence",
+      "slug": "adolescence",
+      "label": "Privacy and growing independence",
+      "intro": "Teenagers are learning to manage their own healthcare. Let them explain their concerns and take more responsibility as they are able. Parents can still help, but they do not need to answer every question (Society for Adolescent Health and Medicine [SAHM], 2025).",
+      "tips": [
+        "Speak directly to the teen: Ask what they already know and what questions they have. Avoid speaking as if they are young children.",
+        "Offer time alone: Explain to the parent and teen that private time is a usual part of adolescent visits.",
+        "Explain privacy clearly: Describe what can stay private, what a parent may see, and when information must be shared for safety or legal reasons. The details depend on the care being provided and applicable law.",
+        "Ask about support: Find out whether the teen wants a parent present for the blood draw. Keep required consent and safety rules in place."
+      ],
+      "past": [
+        "Felitti et al. (1998) found that childhood adversity was linked with health risks later in life. This is why the nurse makes room for concerns about earlier experiences. It does not mean that every nervous patient has experienced trauma. Ask what makes needles, touch, or being held still uncomfortable, without asking for an ACE score or a full account of the past.",
+        "If the patient does not want to answer, that is okay. The nurse can still ask what would help today. The communication advice comes from SAHM (2025)."
+      ],
+      "scene": "A sixteen-year-old comes in with a parent. The nurse arranges some private time with the teen. The following is an example conversation.",
+      "lines": [
+        [
+          "Nurse",
+          "Hi, I'm Alex. I'm your nurse today. How are you feeling about the blood test?"
+        ],
+        [
+          "Teen",
+          "I'm okay, just a little nervous."
+        ],
+        [
+          "Nurse",
+          "That's okay. Before we start, I want to explain how privacy works during your visit."
+        ],
+        [
+          "Nurse",
+          "I’ll keep what you tell me private as far as the law allows and explain what your parents may be able to see. If there’s a serious safety concern or something I’m required to report, I may need to share it."
+        ],
+        [
+          "Nurse",
+          "Before we start, has anything happened in the past that makes needles, touch, or being held still difficult for you?"
+        ],
+        [
+          "Teen",
+          "Yeah. I don’t like people grabbing my arm."
+        ],
+        [
+          "Nurse",
+          "Okay. You don’t have to tell me more. Would it help if I tell you before I touch your arm?"
+        ],
+        [
+          "Teen",
+          "Yes. Just don’t do it without telling me."
+        ],
+        [
+          "Nurse",
+          "All right. Do you want your parents back in for the blood draw?"
+        ],
+        [
+          "Teen",
+          "No, I’m okay."
+        ],
+        [
+          "Nurse",
+          "Would you like a countdown?"
+        ],
+        [
+          "Teen",
+          "No. I’ll look away."
+        ],
+        [
+          "Nurse",
+          "Okay. We can do that. If you need me to pause, just say \"pause.\" I'll stop when it's safe. Does that work?"
+        ],
+        [
+          "Teen",
+          "Yeah, that's fine."
+        ]
+      ],
+      "changes": "The nurse asks before touching, follows the teen’s preference about the countdown, and checks who they want present. They agree on how to ask for a pause and stop safely. The teen can choose not to discuss the past and still receive support. If a safety concern comes up, the nurse explains what needs to happen next and follows the relevant requirements (SAHM, 2025). Unlike younger children, teenagers can make more of their own choices about privacy, comfort, and how they want the nurse to help.",
+      "distinct": "Unlike younger children, teenagers can make more of their own choices about privacy, comfort, and how they want the nurse to help."
+    },
+    {
+      "title": "Adulthood",
+      "slug": "adulthood",
+      "label": "Respect and personal choices",
+      "intro": "Adults may already have experience with blood tests, but they can still feel nervous. Explain what will happen, listen to their concerns, and let them take part in decisions about their care (Kwame & Petrucka, 2021).",
+      "tips": [
+        "Use clear words: Explain what will happen and give the patient time to ask questions.",
+        "Listen to the patient: Let them explain what worries them without interrupting.",
+        "Give choices: Ask whether they want to look away or hear each step before it happens.",
+        "Ask before touching: Tell the patient what you need to do and check that they are ready."
+      ],
+      "past": [
+        "Felitti et al. (1998) found that childhood adversity was linked with health risks later in life. This does not mean that every nervous patient has experienced trauma. Ask whether something in the past makes needles, touch, or being held still uncomfortable. The patient does not need to explain what happened. If they do not want to answer, the nurse can still ask what would help today. The communication advice comes from Kwame and Petrucka (2021)."
+      ],
+      "scene": "A thirty-five-year-old comes in for a blood test. The following is an example conversation.",
+      "lines": [
+        [
+          "Nurse",
+          "Hi, I’m Alex. I’m your nurse today. How are you feeling about the blood test?"
+        ],
+        [
+          "Patient",
+          "A little nervous. The last time wasn’t good."
+        ],
+        [
+          "Nurse",
+          "Does that make the needle, being touched, or being held still uncomfortable for you today?"
+        ],
+        [
+          "Patient",
+          "It’s being touched. They grabbed my arm before I was ready."
+        ],
+        [
+          "Nurse",
+          "Okay. What would help this time?"
+        ],
+        [
+          "Patient",
+          "Just tell me before you touch my arm."
+        ],
+        [
+          "Nurse",
+          "I will. We’ll wait until you’re ready to start."
+        ],
+        [
+          "Patient",
+          "Thanks. I’ll look away, too."
+        ],
+        [
+          "Nurse",
+          "Okay. If you need me to pause, just say \"pause.\" I'll stop when it's safe to do so. Does that work for you?"
+        ],
+        [
+          "Patient",
+          "Yes, that works."
+        ]
+      ],
+      "changes": "The nurse slows down, explains before touching the arm, and checks that the patient is ready. The patient can look away and does not have to explain more about the past. Before starting, they agree on how to ask for a safe pause. In adulthood, the patient plays the main role in making their own care choices, with information and support from the nurse.",
+      "distinct": "In adulthood, the patient plays the main role in making their own care choices, with information and support from the nurse."
+    },
+    {
+      "title": "Older adulthood",
+      "slug": "older-adulthood",
+      "label": "Support and clear communication",
+      "intro": "Some older adults may need help hearing or remembering information. Others may not need this help. Speak directly to the patient and give them time to answer, even when a caregiver is there (Gaffney & Hamiduzzaman, 2022).",
+      "tips": [
+        "Speak to the patient: Ask them questions directly and let them answer before the caregiver.",
+        "Check that they can hear: Face the patient and ask if they can hear you clearly. Reduce noise if needed.",
+        "Keep explanations short: Explain one step at a time. If the patient has trouble remembering, repeat the main points or write them down.",
+        "Include the caregiver if wanted: Ask whether the patient wants their caregiver to stay. Give them a chance to talk alone, too."
+      ],
+      "past": [
+        "Past experiences can still matter later in life. Felitti et al. (1998) found a link between childhood adversity and later health risks, but this does not mean every worried patient has experienced trauma. Ask whether earlier experiences make needles, touch, or being held still uncomfortable. They do not have to share details. The nurse can ask what would help today. The communication advice comes from Gaffney and Hamiduzzaman (2022)."
+      ],
+      "scene": "A seventy-five-year-old comes in with their daughter. The nurse speaks to the patient directly. The following is an example conversation.",
+      "lines": [
+        [
+          "Nurse",
+          "Hi, I’m Alex. I’m your nurse today. Can you hear me okay?"
+        ],
+        [
+          "Patient",
+          "Could you sit on this side? I hear better here."
+        ],
+        [
+          "Nurse",
+          "Yes. Is this better?"
+        ],
+        [
+          "Patient",
+          "Yes."
+        ],
+        [
+          "Nurse",
+          "Would you like your daughter to stay, or would you rather talk alone?"
+        ],
+        [
+          "Patient",
+          "She can stay."
+        ],
+        [
+          "Nurse",
+          "Before we start, has anything happened before that makes needles, touch, or being held still uncomfortable?"
+        ],
+        [
+          "Patient",
+          "Someone held my arm down once. I don’t want that again."
+        ],
+        [
+          "Nurse",
+          "Okay, let’s take a moment. I’ll explain before I touch your arm."
+        ],
+        [
+          "Patient",
+          "Thank you. Just go slowly."
+        ],
+        [
+          "Nurse",
+          "I will. We’ll talk through one step at a time."
+        ],
+        [
+          "Nurse",
+          "If you need a break, just say \"pause.\" I'll stop when it's safe. Is that okay?"
+        ],
+        [
+          "Patient",
+          "Yes, that would help."
+        ]
+      ],
+      "changes": "The nurse sits where the patient can hear better and explains before touching the arm. The daughter stays because the patient wants her there, but the nurse still asks the patient questions directly. Before starting, they agree on how to ask for a safe pause. In older adulthood, the patient still makes their own choices, with extra help for hearing or memory if needed.",
+      "distinct": "In older adulthood, the patient still makes their own choices, with extra help for hearing or memory if needed."
+    }
+  ],
+  "references": [
+    "Bell, J., &amp; Condren, M. (2016). Communication strategies for empowering and protecting children. <em>The Journal of Pediatric Pharmacology and Therapeutics, 21</em>(2), 176–184. <a href=\"https://doi.org/10.5863/1551-6776-21.2.176\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.5863/1551-6776-21.2.176</a>",
+    "Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., &amp; Marks, J. S. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study. <em>American Journal of Preventive Medicine, 14</em>(4), 245–258. <a href=\"https://doi.org/10.1016/S0749-3797(98)00017-8\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1016/S0749-3797(98)00017-8</a>",
+    "Gaffney, H. J., &amp; Hamiduzzaman, M. (2022). Factors that influence older patients’ participation in clinical communication within developed country hospitals and GP clinics: A systematic review of current literature. <em>PLOS ONE, 17</em>(6), e0269840. <a href=\"https://doi.org/10.1371/journal.pone.0269840\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1371/journal.pone.0269840</a>",
+    "Kwame, A., &amp; Petrucka, P. M. (2021). A literature-based study of patient-centered care and communication in nurse-patient interactions: Barriers, facilitators, and the way forward. <em>BMC Nursing, 20</em>, Article 158. <a href=\"https://doi.org/10.1186/s12912-021-00684-2\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1186/s12912-021-00684-2</a>",
+    "Society for Adolescent Health and Medicine. (2025). Confidential healthcare for adolescent minors and young adults: A position paper of the Society for Adolescent Health and Medicine. <em>Journal of Adolescent Health, 77</em>(4), 791–796. <a href=\"https://doi.org/10.1016/j.jadohealth.2025.06.006\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1016/j.jadohealth.2025.06.006</a>"
+  ]
+}

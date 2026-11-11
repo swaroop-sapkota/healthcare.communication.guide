@@ -1,0 +1,8 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {createConversationSpeech} from '../lib/conversation-speech.ts';
+function setup(){const spoken=[],states=[];const synth={cancel(){},getVoices(){return[]},speak(u){spoken.push(u)}};const engine=createConversationSpeech(synth,text=>({text}),[['Nurse','Hello'],['Patient','Hi']],s=>states.push(s));return{engine,spoken,states,synth};}
+test('reads both speaker labels and lines in order, then finishes',()=>{const x=setup();x.engine.play(.8);assert.equal(x.spoken[0].text,'Nurse. Hello');assert.equal(x.spoken[0].rate,.8);x.spoken[0].onend();assert.equal(x.spoken[1].text,'Patient. Hi');x.spoken[1].onend();assert.equal(x.states.at(-1).status,'finished');});
+test('pause cancels speech; resume repeats current line and ignores canceled callbacks',()=>{const x=setup();x.engine.play();const old=x.spoken[0];x.engine.pause();old.onend();assert.equal(x.spoken.length,1);assert.equal(x.states.at(-1).status,'paused');x.engine.resume();assert.equal(x.spoken[1].text,'Nurse. Hello');old.onerror();assert.equal(x.states.at(-1).status,'playing');});
+test('stop and leaving a section prevent queued dialogue from continuing',()=>{const x=setup();x.engine.play();x.engine.stop();x.spoken[0].onend();assert.equal(x.spoken.length,1);assert.equal(x.states.at(-1).status,'idle');x.engine.play();x.engine.dispose();const count=x.states.length;x.spoken[1].onend();assert.equal(x.states.length,count);});
+test('speech failure gives an honest fallback, and play can retry',()=>{const x=setup();x.engine.play();x.spoken[0].onerror();assert.equal(x.states.at(-1).status,'error');x.engine.play();assert.equal(x.states.at(-1).status,'playing');});
