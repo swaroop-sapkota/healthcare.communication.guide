@@ -1,0 +1,630 @@
+{
+  "intro": "This guide shows how a nurse can adapt a blood-draw conversation to a patient’s developmental needs while making room for concerns related to difficult past experiences. The examples focus on communication before routine, nonurgent blood draws. They are illustrative conversations, not quotations from the articles or instructions for performing venipuncture.",
+  "background": "Felitti et al. (1998) found an association between greater exposure to childhood adversity and several health risks and health problems in adulthood. These findings provide a reason to consider a patient’s developmental history, but they do not show that every frightened patient has experienced trauma or that a particular question will reduce distress. In this guide, the nurse asks about relevant discomfort without requesting an ACE score or requiring the patient to describe what happened.",
+  "stages": [
+    {
+      "title": "Childhood",
+      "slug": "childhood",
+      "label": "Preschool and school-age choices",
+      "intro": "Children need explanations that match what they can understand. Choose preschool or school-age below. The ages are a guide, not a rule. Listen to the child and include their parent without letting the parent answer everything (Bell & Condren, 2016).",
+      "tips": [
+        "Keep it concrete: Say “a little blood for a test,” rather than using technical words. Explain just the next step.",
+        "Be honest: Say that the needle may pinch. Do not promise that it will not hurt.",
+        "Offer comfort: Ask about sitting with a parent, a familiar video, and suitable numbing cream. Allow time for the cream to work under the care team’s plan.",
+        "Respect a no: Explain why the arm must stay still. Offer a supportive comfort hold, not a way to overpower resistance. Pause a routine draw if the child cannot manage it."
+      ],
+      "scene": "A four-year-old is scared of the needle. Their parent is present and has given permission for the test. The team checks the pain-relief plan before starting.",
+      "lines": [
+        [
+          "Nurse",
+          "Hi, Maya. I’m Sam, your nurse. What worries you about the blood test?"
+        ],
+        [
+          "Child",
+          "The needle."
+        ],
+        [
+          "Nurse",
+          "We need a little blood to help the doctor check your body. It may pinch. Would you like to sit with Dad?"
+        ],
+        [
+          "Child",
+          "Yes. But I don’t want anyone holding me."
+        ],
+        [
+          "Nurse",
+          "You don’t want to feel trapped. We have not started. Your arm needs to stay still so the needle does not move and hurt you."
+        ],
+        [
+          "Nurse",
+          "Would you like to try a cuddle with Dad before we do anything?"
+        ],
+        [
+          "Child",
+          "Only if he doesn’t squeeze."
+        ],
+        [
+          "Parent",
+          "You can sit on my lap. We can try it first."
+        ],
+        [
+          "Nurse",
+          "Tell us if it feels wrong. We can stop the practice. May I help you rest your arm?"
+        ],
+        [
+          "Child",
+          "Okay."
+        ],
+        [
+          "Nurse",
+          "Dad can cuddle you while I gently support your arm. You can watch your video. We can also check whether numbing cream is right for you. It needs time to work."
+        ],
+        [
+          "Child",
+          "I want the cream and my video."
+        ],
+        [
+          "Nurse",
+          "Let’s get those ready. We will check again before we start."
+        ]
+      ],
+      "changes": "The nurse takes the refusal seriously and practices the position before using a needle. The child chooses Dad, a video, and a discussion of numbing cream. If the child still resists, the routine draw waits while the team makes another plan. At preschool age, simple steps and a trusted parent help the child take part.",
+      "distinct": "At preschool age, simple steps and a trusted parent help the child take part.",
+      "extras": [
+        {
+          "title": "If the child still says no",
+          "text": "Do not rename forced restraint a comfort hold. Stop before inserting the needle, listen, and try a different support or preparation plan. If a routine draw cannot happen safely, involve the care team rather than overpowering the child. Urgent care requires a separate clinical assessment."
+        },
+        {
+          "title": "Autism and sensory needs",
+          "text": "Ask what sounds, lights, touch, or changes are hard for this child. For example: “Would a quieter room help?” Offer a simple picture sequence and time to get used to the room. Do not assume every autistic child wants the same support (National Autistic Society, n.d.)."
+        },
+        {
+          "title": "What the pain research supports",
+          "text": "Taddio et al. (2015) is a vaccination guideline, not a blood-draw protocol. McMurtry et al. (2015) explains how painful needle experiences and fear can affect later care. Trottier et al. (2025), writing for the Canadian Paediatric Society, directly covers venipuncture and supports combining preparation, distraction, comfort positioning, and suitable topical anesthetic. The care team selects the product, timing, and clinical plan."
+        }
+      ],
+      "pastQuestion": "What worries you about the blood test today?",
+      "variants": [
+        {
+          "title": "Preschool · about 3–5 years",
+          "theory": "Piaget called early childhood the preoperational stage. A four-year-old may take words literally and find a long explanation confusing. Show one step at a time, use familiar words, and offer two small choices. These are applications of the theory, not rules for every child (Riser et al., 2024).",
+          "tips": [
+            "Keep it concrete: Say “a little blood for a test,” rather than using technical words. Explain just the next step.",
+            "Be honest: Say that the needle may pinch. Do not promise that it will not hurt.",
+            "Offer comfort: Ask about sitting with a parent, a familiar video, and suitable numbing cream. Allow time for the cream to work under the care team’s plan.",
+            "Respect a no: Explain why the arm must stay still. Offer a supportive comfort hold, not a way to overpower resistance. Pause a routine draw if the child cannot manage it."
+          ],
+          "scene": "A four-year-old is scared of the needle. Their parent is present and has given permission for the test. The team checks the pain-relief plan before starting.",
+          "lines": [
+            [
+              "Nurse",
+              "Hi, Maya. I’m Sam, your nurse. What worries you about the blood test?"
+            ],
+            [
+              "Child",
+              "The needle."
+            ],
+            [
+              "Nurse",
+              "We need a little blood to help the doctor check your body. It may pinch. Would you like to sit with Dad?"
+            ],
+            [
+              "Child",
+              "Yes. But I don’t want anyone holding me."
+            ],
+            [
+              "Nurse",
+              "You don’t want to feel trapped. We have not started. Your arm needs to stay still so the needle does not move and hurt you."
+            ],
+            [
+              "Nurse",
+              "Would you like to try a cuddle with Dad before we do anything?"
+            ],
+            [
+              "Child",
+              "Only if he doesn’t squeeze."
+            ],
+            [
+              "Parent",
+              "You can sit on my lap. We can try it first."
+            ],
+            [
+              "Nurse",
+              "Tell us if it feels wrong. We can stop the practice. May I help you rest your arm?"
+            ],
+            [
+              "Child",
+              "Okay."
+            ],
+            [
+              "Nurse",
+              "Dad can cuddle you while I gently support your arm. You can watch your video. We can also check whether numbing cream is right for you. It needs time to work."
+            ],
+            [
+              "Child",
+              "I want the cream and my video."
+            ],
+            [
+              "Nurse",
+              "Let’s get those ready. We will check again before we start."
+            ]
+          ],
+          "changes": "The nurse takes the refusal seriously and practices the position before using a needle. The child chooses Dad, a video, and a discussion of numbing cream. If the child still resists, the routine draw waits while the team makes another plan. At preschool age, simple steps and a trusted parent help the child take part.",
+          "distinct": "At preschool age, simple steps and a trusted parent help the child take part."
+        },
+        {
+          "title": "School-age · about 6–11 years",
+          "theory": "In Piaget’s concrete operational stage, usually around ages 7–11, children become better at following a clear sequence and understanding a practical reason. A nine-year-old can help make a plan: what happens first, why the arm stays still, and how to ask for help. Check understanding instead of assuming it from age (Riser et al., 2024).",
+          "tips": [
+            "Explain the reason: Connect the blood sample to the test the clinician ordered, using plain words.",
+            "Ask one question at a time: Start with the child’s main concern, then ask about earlier experiences.",
+            "Make a plan together: Agree on distraction, a support person, and pain relief before starting.",
+            "Explain a safe stop: Ask the child to speak up and keep the arm still while the nurse responds safely."
+          ],
+          "scene": "A nine-year-old remembers a painful blood draw. Their mother is present. Required permission is already confirmed.",
+          "lines": [
+            [
+              "Nurse",
+              "Hello, Jordan. I’m Sam. What have you heard about today’s test?"
+            ],
+            [
+              "Child",
+              "You need some blood. I’m scared it will hurt again."
+            ],
+            [
+              "Nurse",
+              "What was hard last time?"
+            ],
+            [
+              "Child",
+              "They kept trying. I didn’t know when it would stop."
+            ],
+            [
+              "Nurse",
+              "That sounds hard. You don’t have to tell me more. The sample helps the clinician check what is happening in your body. We can discuss numbing cream before we start."
+            ],
+            [
+              "Child",
+              "Can I watch my game?"
+            ],
+            [
+              "Nurse",
+              "Yes. Would you like Mom beside you?"
+            ],
+            [
+              "Child",
+              "Yes, but I don’t want her holding my arm down."
+            ],
+            [
+              "Nurse",
+              "We will practice resting your arm first. It needs to stay still so the needle does not move. If that feels too hard, we will stop and make another plan."
+            ],
+            [
+              "Child",
+              "What if I need you to stop after you start?"
+            ],
+            [
+              "Nurse",
+              "Say “stop” and keep your arm still. I will stop the draw and remove the needle safely. Can you tell me the plan in your own words?"
+            ],
+            [
+              "Child",
+              "I watch my game, keep my arm still, and say stop if I need help."
+            ],
+            [
+              "Nurse",
+              "Yes. We will check that you are ready before we begin."
+            ]
+          ],
+          "changes": "The nurse hears that repeated attempts were frightening, offers a pain-relief discussion, and agrees on a game and Mom’s presence. The child explains the stop plan back. At school age, the child can understand the reason for a step and help plan how it will happen.",
+          "distinct": "At school age, the child can understand the reason for a step and help plan how it will happen."
+        }
+      ],
+      "theory": "Piaget called early childhood the preoperational stage. A four-year-old may take words literally and find a long explanation confusing. Show one step at a time, use familiar words, and offer two small choices. These are applications of the theory, not rules for every child (Riser et al., 2024).",
+      "principles": [
+        [
+          "Safety",
+          "Practice the position first."
+        ],
+        [
+          "Trustworthiness and transparency",
+          "Explain touch before it happens."
+        ],
+        [
+          "Peer support",
+          "Offer child/family peer resources if wanted."
+        ],
+        [
+          "Collaboration and mutuality",
+          "Make a plan with child and parent."
+        ],
+        [
+          "Empowerment, voice, and choice",
+          "Honor small choices and distress."
+        ],
+        [
+          "Cultural, historical, and gender issues",
+          "Ask about family preferences."
+        ]
+      ]
+    },
+    {
+      "title": "Adolescence",
+      "slug": "adolescence",
+      "label": "Privacy and growing independence",
+      "intro": "Teenagers are learning to manage their own healthcare. Let them explain their concerns and take more responsibility as they are able. Parents can still help, but they do not need to answer every question (Society for Adolescent Health and Medicine [SAHM], 2025).",
+      "tips": [
+        "Greet the teen first: Speak directly to them and offer private time.",
+        "Make privacy specific: Explain who can consent and who may see this test’s results. Private time does not automatically mean private records.",
+        "Ask about fainting: Take dizziness seriously. Arrange a safe position and clinical assessment before starting.",
+        "Let the teen choose support: Ask whether they want a parent present, while following consent and safety requirements."
+      ],
+      "scene": "A 15-year-old in Texas is having a routine test with parental consent. The nurse has confirmed that the parent has access to this visit’s record. During private time, the teen mentions nearly fainting at a previous blood draw.",
+      "lines": [
+        [
+          "Nurse",
+          "Hi, Taylor. I’m Jordan, your nurse. How are you feeling about today?"
+        ],
+        [
+          "Teen",
+          "Can my mom wait outside?"
+        ],
+        [
+          "Nurse",
+          "Yes, we can have some private time. For this routine test, your mom has given consent and can see the results and visit record. Being outside does not change that."
+        ],
+        [
+          "Teen",
+          "So you can’t promise she won’t see it?"
+        ],
+        [
+          "Nurse",
+          "Right. I also need to share some safety concerns or things the law requires us to report. Tell me if there is something you are worried about sharing so we can discuss the limits first."
+        ],
+        [
+          "Teen",
+          "Last time I almost passed out. Everyone stared at me."
+        ],
+        [
+          "Nurse",
+          "That sounds embarrassing. Do you feel dizzy now?"
+        ],
+        [
+          "Teen",
+          "A little."
+        ],
+        [
+          "Nurse",
+          "We won’t start the draw. I’ll help you lie down and check how you’re doing. Please tell me if you feel worse."
+        ],
+        [
+          "Teen",
+          "I still don’t want Mom watching."
+        ],
+        [
+          "Nurse",
+          "I’ll respect that while we check you. If your safety means I need more help, I’ll explain what is happening."
+        ],
+        [
+          "Teen",
+          "Okay. Can I look away when we do it?"
+        ],
+        [
+          "Nurse",
+          "Yes. We will decide whether to go ahead after you have been checked and feel ready."
+        ]
+      ],
+      "changes": "The nurse explains actual record access, responds to dizziness before starting, and respects the teen’s request for private time. The test is not rushed. At this age, growing independence and concern about being judged make privacy and a voice in the plan especially important.",
+      "distinct": "At this age, growing independence and concern about being judged make privacy and a voice in the plan especially important.",
+      "extras": [
+        {
+          "title": "Texas: consent and results at age 15",
+          "text": "For an ordinary routine blood test, a parent or other legally authorized decision-maker generally consents. Being 15 alone does not give independent consent rights. Texas Family Code §32.003 allows some exceptions tied to the care, such as diagnosis or treatment of reportable infectious disease; its independent-living provision requires age 16 or older and other conditions. Parents generally have record access when acting as personal representatives. Self-consent does not guarantee secrecy: §32.003(d) permits certain clinicians to inform parents about treatment, and HIPAA has exceptions. Check the test, legal authority, safety concerns, and portal access before promising privacy. Sources: Texas Family Code §§151.001 and 32.003; HHS, “Am I my child’s personal representative under HIPAA?” Checked November 17, 2026."
+        },
+        {
+          "title": "Language and private time",
+          "text": "If the teen needs language support, arrange a qualified interpreter for private time instead of relying on the parent. Speak to the teen directly and explain the same privacy limits through the interpreter (HHS, n.d.)."
+        },
+        {
+          "title": "Fear is not the same as fainting",
+          "text": "Ask about previous fainting and current symptoms. WHO (2010) supports asking about past reactions and using a lying position when appropriate. A dizzy patient needs assessment before a routine draw. Calm words alone are not a fainting-management plan."
+        }
+      ],
+      "theory": "Erikson’s identity versus role confusion stage focuses on developing a sense of self. Elkind’s imaginary audience describes feeling as if other people are watching or judging you. Privacy, respectful language, and choices may help a teen who feels embarrassed. These theories guide questions; they do not describe every teenager (Riser et al., 2024; Elkind, 1967).",
+      "pastQuestion": "Have you ever felt faint during a blood test?",
+      "principles": [
+        [
+          "Safety",
+          "Respond to dizziness."
+        ],
+        [
+          "Trustworthiness and transparency",
+          "Explain record access honestly."
+        ],
+        [
+          "Peer support",
+          "Offer teen peer resources if wanted."
+        ],
+        [
+          "Collaboration and mutuality",
+          "Plan private time together."
+        ],
+        [
+          "Empowerment, voice, and choice",
+          "Respect support-person preferences."
+        ],
+        [
+          "Cultural, historical, and gender issues",
+          "Ask rather than assume identity or beliefs."
+        ]
+      ]
+    },
+    {
+      "title": "Adulthood",
+      "slug": "adulthood",
+      "label": "Respect and personal choices",
+      "intro": "Adults may already have experience with blood tests, but they can still feel nervous. Explain what will happen, listen to their concerns, and let them take part in decisions about their care (Kwame & Petrucka, 2021).",
+      "tips": [
+        "Acknowledge time pressure: Ask what the patient needs to get back to. Explain the next steps briefly.",
+        "Listen before assuming: “Just do it” may reflect a busy day, anxiety, or a preference for less detail.",
+        "Keep consent meaningful: Explain the purpose and check readiness, even when the patient is in a hurry.",
+        "Keep choices practical: Offer a brief explanation or step-by-step information, without delaying care unnecessarily."
+      ],
+      "scene": "A 35-year-old parent arrives between work and school pickup. The example focuses on making time for understanding without giving a long lecture.",
+      "lines": [
+        [
+          "Nurse",
+          "Good afternoon. I’m Priya, your nurse. What do you need to get back to today?"
+        ],
+        [
+          "Patient",
+          "School pickup. Just do it. I’m already late."
+        ],
+        [
+          "Nurse",
+          "I hear you. I’ll keep this brief, but first I need to make sure you know what we’re doing."
+        ],
+        [
+          "Patient",
+          "Okay, quickly."
+        ],
+        [
+          "Nurse",
+          "We’re collecting the blood sample your clinician ordered. It may sting and leave a small bruise. Is there anything from a past blood test that would help me care for you today?"
+        ],
+        [
+          "Patient",
+          "No. I’m just watching the time."
+        ],
+        [
+          "Nurse",
+          "Have you ever fainted during a blood test?"
+        ],
+        [
+          "Patient",
+          "No."
+        ],
+        [
+          "Nurse",
+          "Would you rather hear each step or just know when we’re about to start?"
+        ],
+        [
+          "Patient",
+          "Just tell me before you start."
+        ],
+        [
+          "Nurse",
+          "I can do that. May I check your arm now?"
+        ],
+        [
+          "Patient",
+          "Yes."
+        ],
+        [
+          "Nurse",
+          "Are you comfortable going ahead with the blood test?"
+        ],
+        [
+          "Patient",
+          "Yes, thank you for keeping it short."
+        ],
+        [
+          "Nurse",
+          "If you need to stop, tell me and keep your arm still while I stop safely. Before you leave, we’ll make sure you have the aftercare information."
+        ]
+      ],
+      "changes": "The nurse learns that the main concern is time, keeps the explanation short, asks about prior difficulty and fainting, and checks permission before touching. The patient chooses how much detail to hear. In adulthood, care fits around the patient’s responsibilities while keeping them in charge of their decisions.",
+      "distinct": "In adulthood, care fits around the patient’s responsibilities while keeping them in charge of their decisions.",
+      "extras": [
+        {
+          "title": "Culture and language",
+          "text": "Ask, “Is there anything about your language, beliefs, or personal preferences you want us to consider?” If the patient wants family support, include it with permission. Use a qualified interpreter for important explanations and consent when needed; a family member may not be able to interpret accurately (HHS, n.d.; Kwame & Petrucka, 2021)."
+        }
+      ],
+      "theory": "Arnett’s emerging adulthood describes exploration and growing independence in the late teens and twenties, not all adults. A younger adult may want help managing care on their own (Arnett, 2000). For the 35-year-old parent below, work and family demands are the relevant context. Asking about time pressure applies patient-centered communication without assuming that being rushed means being unconcerned (Kwame & Petrucka, 2021).",
+      "pastQuestion": "Is there anything from a past blood test that would help me care for you today?",
+      "principles": [
+        [
+          "Safety",
+          "Keep essential checks despite haste."
+        ],
+        [
+          "Trustworthiness and transparency",
+          "Explain delays honestly."
+        ],
+        [
+          "Peer support",
+          "Offer adult peer support if wanted."
+        ],
+        [
+          "Collaboration and mutuality",
+          "Work around stated responsibilities."
+        ],
+        [
+          "Empowerment, voice, and choice",
+          "Check informed readiness."
+        ],
+        [
+          "Cultural, historical, and gender issues",
+          "Ask about language and care preferences."
+        ]
+      ]
+    },
+    {
+      "title": "Older adulthood",
+      "slug": "older-adulthood",
+      "label": "Support and clear communication",
+      "intro": "Some older adults may need help hearing or remembering information. Others may not need this help. Speak directly to the patient and give them time to answer, even when a caregiver is there (Gaffney & Hamiduzzaman, 2022).",
+      "tips": [
+        "Speak to the patient: Ask them first, even when a caregiver is present.",
+        "Support hearing: Face the patient, reduce background noise, and ask which position helps them hear.",
+        "Use short steps: Allow time for an answer. Ask the patient to explain the plan back so you can check your explanation.",
+        "Discuss past difficulties: Listen to concerns about bruising or repeated attempts. Ask the care team to assess the plan instead of promising an easy draw."
+      ],
+      "scene": "A 78-year-old with hearing loss comes with their daughter. Previous blood draws caused bruising and were difficult because of fragile veins. The nurse discusses the concern; needle and site choices belong to the clinical team.",
+      "lines": [
+        [
+          "Nurse",
+          "Good morning, Ms. Lee. I’m Elena, your nurse. Where should I sit so you can hear me best?"
+        ],
+        [
+          "Patient",
+          "On my right. The hallway is noisy."
+        ],
+        [
+          "Nurse",
+          "I’ll close the door and sit here. Is that clearer?"
+        ],
+        [
+          "Patient",
+          "Much better."
+        ],
+        [
+          "Nurse",
+          "Would you like your daughter to stay?"
+        ],
+        [
+          "Patient",
+          "Yes. She helps me remember things."
+        ],
+        [
+          "Nurse",
+          "Of course. I’ll explain things to you first. What was difficult about your last blood test?"
+        ],
+        [
+          "Patient",
+          "My veins are fragile. They tried several times, and I had a big bruise."
+        ],
+        [
+          "Nurse",
+          "Thank you for telling me. I’ll ask the team to review the best plan before we start. I can’t promise there will be no bruise."
+        ],
+        [
+          "Daughter",
+          "She gets nervous when people rush."
+        ],
+        [
+          "Nurse",
+          "Ms. Lee, would one step at a time help?"
+        ],
+        [
+          "Patient",
+          "Yes. And tell me before touching my arm."
+        ],
+        [
+          "Nurse",
+          "I will. May I look at your arm now?"
+        ],
+        [
+          "Patient",
+          "Yes."
+        ],
+        [
+          "Nurse",
+          "If you need us to stop, tell me and keep your arm still while we stop safely. To check that I explained it clearly, what will happen next?"
+        ],
+        [
+          "Patient",
+          "You’ll look at my arm and check the plan before starting."
+        ],
+        [
+          "Nurse",
+          "That’s right. I can write down the main points for you too."
+        ]
+      ],
+      "changes": "The nurse changes position, reduces noise, checks the patient’s preference about her daughter, and addresses the difficult-draw history before starting. Teach-back checks the explanation rather than testing the patient. In older adulthood, extra time and hearing or memory support should protect the patient’s participation, not replace it.",
+      "distinct": "In older adulthood, extra time and hearing or memory support should protect the patient’s participation, not replace it.",
+      "extras": [
+        {
+          "title": "Dementia and consent",
+          "text": "A dementia diagnosis does not automatically remove the ability to consent. First support hearing, language, and understanding. If the patient cannot understand this decision, ask the responsible clinician to assess capacity and confirm the legally authorized decision-maker. A caregiver’s presence alone is not legal authority. Continue speaking to the patient and consider their wishes. If they resist a routine draw, pause for reassessment rather than treating proxy permission as permission to force it (Alzheimer’s Association, n.d.)."
+        }
+      ],
+      "theory": "Socioemotional selectivity theory suggests that people who see time as more limited often prioritize meaningful relationships and emotional well-being. It supports asking what matters to this patient rather than assuming what matters from age (Carstensen et al., 1999). Normal aging can slow processing or recall without removing understanding or decision-making ability. Give time, reduce distractions, and check your explanation. Dementia is not normal aging (National Institute on Aging, n.d.).",
+      "pastQuestion": "What was difficult about your last blood test?",
+      "principles": [
+        [
+          "Safety",
+          "Address hearing and difficult draws."
+        ],
+        [
+          "Trustworthiness and transparency",
+          "Avoid promises about bruising."
+        ],
+        [
+          "Peer support",
+          "Offer older-adult peer support if wanted."
+        ],
+        [
+          "Collaboration and mutuality",
+          "Plan with the patient first."
+        ],
+        [
+          "Empowerment, voice, and choice",
+          "Preserve decision-making participation."
+        ],
+        [
+          "Cultural, historical, and gender issues",
+          "Ask about personal and cultural priorities."
+        ]
+      ]
+    }
+  ],
+  "references": [
+    "Alzheimer’s Association. (n.d.). <em>Respect for autonomy.</em> <a href=\"https://www.alz.org/getmedia/55608546-5052-4483-98bd-59b24167e2bf/respect-for-autonomy-statement.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.alz.org/getmedia/55608546-5052-4483-98bd-59b24167e2bf/respect-for-autonomy-statement.pdf</a>",
+    "Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the twenties. <em>American Psychologist, 55</em>(5), 469–480. <a href=\"https://doi.org/10.1037/0003-066X.55.5.469\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1037/0003-066X.55.5.469</a>",
+    "Bell, J., &amp; Condren, M. (2016). Communication strategies for empowering and protecting children. <em>The Journal of Pediatric Pharmacology and Therapeutics, 21</em>(2), 176–184. <a href=\"https://doi.org/10.5863/1551-6776-21.2.176\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.5863/1551-6776-21.2.176</a>",
+    "Carstensen, L. L., Isaacowitz, D. M., &amp; Charles, S. T. (1999). Taking time seriously: A theory of socioemotional selectivity. <em>American Psychologist, 54</em>(3), 165–181. <a href=\"https://doi.org/10.1037/0003-066X.54.3.165\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1037/0003-066X.54.3.165</a>",
+    "Elkind, D. (1967). Egocentrism in adolescence. <em>Child Development, 38</em>(4), 1025–1034. <a href=\"https://doi.org/10.2307/1127100\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.2307/1127100</a>",
+    "Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., &amp; Marks, J. S. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study. <em>American Journal of Preventive Medicine, 14</em>(4), 245–258. <a href=\"https://doi.org/10.1016/S0749-3797(98)00017-8\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1016/S0749-3797(98)00017-8</a>",
+    "Gaffney, H. J., &amp; Hamiduzzaman, M. (2022). Factors that influence older patients’ participation in clinical communication within developed country hospitals and GP clinics: A systematic review of current literature. <em>PLOS ONE, 17</em>(6), e0269840. <a href=\"https://doi.org/10.1371/journal.pone.0269840\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1371/journal.pone.0269840</a>",
+    "Kwame, A., &amp; Petrucka, P. M. (2021). A literature-based study of patient-centered care and communication in nurse-patient interactions: Barriers, facilitators, and the way forward. <em>BMC Nursing, 20</em>, Article 158. <a href=\"https://doi.org/10.1186/s12912-021-00684-2\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1186/s12912-021-00684-2</a>",
+    "McMurtry, C. M., Pillai Riddell, R., Taddio, A., Racine, N., Asmundson, G. J. G., Noel, M., Chambers, C. T., &amp; Shah, V. (2015). Far from “just a poke”: Common painful needle procedures and the development of needle fear. <em>The Clinical Journal of Pain, 31</em>(10 Suppl.), S3–S11. <a href=\"https://doi.org/10.1097/AJP.0000000000000272\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1097/AJP.0000000000000272</a>",
+    "National Autistic Society. (n.d.). <em>Autism and sensory processing.</em> <a href=\"https://www.autism.org.uk/advice-and-guidance/about-autism/sensory-processing\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.autism.org.uk/advice-and-guidance/about-autism/sensory-processing</a>",
+    "National Institute on Aging. (n.d.). <em>How the aging brain affects thinking.</em> <a href=\"https://www.nia.nih.gov/health/how-aging-brain-affects-thinking\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nia.nih.gov/health/how-aging-brain-affects-thinking</a>",
+    "National Institute on Aging. (n.d.). <em>Memory problems, forgetfulness, and aging.</em> <a href=\"https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-forgetfulness-and-aging-whats-normal-and-whats-not\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-forgetfulness-and-aging-whats-normal-and-whats-not</a>",
+    "Riser, D., Spielman, R., &amp; Biek, D. (2024). <em>Lifespan development.</em> OpenStax. See the developmental-theory and childhood/adolescence sections. <a href=\"https://openstax.org/books/lifespan-development/pages/1-3-major-theories-and-theorists\" target=\"_blank\" rel=\"noopener noreferrer\">https://openstax.org/books/lifespan-development/pages/1-3-major-theories-and-theorists</a>",
+    "Society for Adolescent Health and Medicine. (2025). Confidential healthcare for adolescent minors and young adults: A position paper of the Society for Adolescent Health and Medicine. <em>Journal of Adolescent Health, 77</em>(4), 791–796. <a href=\"https://doi.org/10.1016/j.jadohealth.2025.06.006\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1016/j.jadohealth.2025.06.006</a>",
+    "Substance Abuse and Mental Health Services Administration. (2014). <em>SAMHSA’s concept of trauma and guidance for a trauma-informed approach</em> (HHS Publication No. SMA 14-4884). <a href=\"https://library.samhsa.gov/sites/default/files/sma14-4884.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">https://library.samhsa.gov/sites/default/files/sma14-4884.pdf</a>",
+    "Taddio, A., McMurtry, C. M., Shah, V., Pillai Riddell, R., Chambers, C. T., Noel, M., MacDonald, N. E., Rogers, J., Bucci, L. M., Mousmanis, P., Lang, E., Halperin, S. A., Bowles, S., Halpert, C., Ipp, M., Asmundson, G. J. G., Rieder, M. J., Robson, K., Uleryk, E., . . . Votta Bleeker, E. (2015). Reducing pain during vaccine injections: Clinical practice guideline. <em>CMAJ, 187</em>(13), 975–982. <a href=\"https://doi.org/10.1503/cmaj.150391\" target=\"_blank\" rel=\"noopener noreferrer\">https://doi.org/10.1503/cmaj.150391</a>",
+    "Texas Family Code § 151.001. Rights and duties of parent. Current text consulted November 17, 2026. <a href=\"https://statutes.capitol.texas.gov/GetStatute.aspx?Code=FA&Value=151.001\" target=\"_blank\" rel=\"noopener noreferrer\">https://statutes.capitol.texas.gov/GetStatute.aspx?Code=FA&Value=151.001</a>",
+    "Texas Family Code § 32.003. Consent to treatment by child. Current text consulted November 17, 2026. <a href=\"https://tcss.legis.texas.gov/docs/FA/htm/FA.32.htm#32.003\" target=\"_blank\" rel=\"noopener noreferrer\">https://tcss.legis.texas.gov/docs/FA/htm/FA.32.htm#32.003</a>",
+    "Trottier, E. D., Doré-Bergeron, M.-J., Chauvin-Kimoff, L., Baerg, K., &amp; Ali, S. (2025, March 20). <em>Managing pain and distress in children undergoing brief diagnostic and therapeutic procedures.</em> Canadian Paediatric Society. <a href=\"https://cps.ca/en/documents/position/managing-pain-and-distress\" target=\"_blank\" rel=\"noopener noreferrer\">https://cps.ca/en/documents/position/managing-pain-and-distress</a>",
+    "U.S. Department of Health and Human Services. (n.d.). <em>Am I my child’s “personal representative” under HIPAA?</em> <a href=\"https://www.hhs.gov/sites/default/files/am-i-my-childs.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.hhs.gov/sites/default/files/am-i-my-childs.pdf</a>",
+    "U.S. Department of Health and Human Services. (n.d.). <em>May an LEP person use a family member or friend as his or her interpreter?</em> <a href=\"https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html</a>",
+    "World Health Organization. (2010). <em>WHO guidelines on drawing blood: Best practices in phlebotomy.</em> <a href=\"https://www.who.int/publications/i/9789241599221\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.who.int/publications/i/9789241599221</a>"
+  ],
+  "updated": "November 17, 2026",
+  "traumaNote": "These are examples of applying SAMHSA’s six principles (2014), not a validated checklist. Peer support means support from people with relevant lived experience; it is different from simply having a parent or caregiver present. No patient has to describe past trauma to receive respectful care.",
+  "testing": {
+    "status": "Nursing-student testing is pending. No student feedback or feedback-based change is claimed yet.",
+    "tasks": [
+      "Ask two or three nursing students to try the guide without coaching. Use participant numbers, not names, and do not collect patient information.",
+      "Ask each person to find the child’s refusal response, explain the teen’s privacy limits, and play then stop a conversation. Have at least one person use a phone and one use a keyboard.",
+      "Ask: What was unclear? What sounded unrealistic? What was difficult to find or use? Record the device and whether each task worked.",
+      "Choose one change based on their feedback, make it, and ask a student to try it again. Record the feedback, the change, and the recheck result."
+    ],
+    "template": "Participant number: ___ | Device/browser: ___ | Tasks completed: ___ | Feedback: ___ | Change made: ___ | Recheck result and date: ___"
+  }
+}

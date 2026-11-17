@@ -1,0 +1,15 @@
+UPDATED HEALTHCARE COMMUNICATION GUIDE
+
+1. Extract this ZIP on your computer.
+2. Open https://github.com/swaroop-sapkota/healthcare.communication.guide
+3. Choose Add file > Upload files.
+4. Drag the extracted app, lib, tests, and docs folders into GitHub. Also upload README.md, REVIEW_NOTES.md, and .gitignore if your file picker shows it.
+5. Choose Commit changes.
+6. Keep Settings > Pages on main and /docs. GitHub will rebuild the site.
+7. Open https://swaroop-sapkota.github.io/healthcare.communication.guide/ and refresh.
+
+Check that Childhood has Preschool and School-age buttons and that the footer says November 17, 2026. Test sound on your own device.
+
+The existing old hashed files in docs/assets can remain; the new index.html points to the new assets.
+
+NEXT: Ask 2 or 3 nursing students to use the Try the guide page. Record real feedback and one change made from it. That step is not completed yet.
