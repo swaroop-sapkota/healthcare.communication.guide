@@ -26,3 +26,5 @@ Recheck the sources and Texas legal note before reuse in a clinical setting. Kee
 
 ## Reference access update — November 19, 2026
 Replaced DOI/publisher redirects with public reading routes. Retained original research where a free copy was located. Replaced the unavailable Elkind original with OpenStax’s explanation, NIA pages with MedlinePlus, the unavailable Alzheimer’s Association statement with Alzheimer’s Society general capacity guidance, and the SAHM publisher article with Agostino and Toulany (2023). Updated in-text citations. Non-U.S. guidance supports communication principles only; Texas law and HHS support the Texas section. NIH/NCBI may require a browser security check. Build passes.
+
+APA 7 revision: formal DOI/URL endings, separate free-reading links, corrected long author list, Article identifier, dated HHS interpreter source, matching in-text citations, chronological ordering, and half-inch hanging indents with double spacing.
