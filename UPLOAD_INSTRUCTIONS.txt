@@ -8,8 +8,10 @@ UPDATED HEALTHCARE COMMUNICATION GUIDE
 6. Keep Settings > Pages on main and /docs. GitHub will rebuild the site.
 7. Open https://swaroop-sapkota.github.io/healthcare.communication.guide/ and refresh.
 
-Check that Childhood has Preschool and School-age buttons and that the footer says November 17, 2026. Test sound on your own device.
+Check that Childhood has Preschool and School-age buttons and that the footer says November 19, 2026. Test sound on your own device.
 
 The existing old hashed files in docs/assets can remain; the new index.html points to the new assets.
 
 NEXT: Ask 2 or 3 nursing students to use the Try the guide page. Record real feedback and one change made from it. That step is not completed yet.
+
+REFERENCE UPDATE: Accessible_References.html is a standalone clickable reference list. The updated references are also built into the website. Some NIH links may show a browser security check.

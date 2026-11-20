@@ -22,3 +22,7 @@ Two or three nursing students must try the site. The “Try the guide” page ha
 
 ## Maintenance
 Recheck the sources and Texas legal note before reuse in a clinical setting. Keep the review date accurate; do not advance it automatically. New clinical content requires source checking. Voice availability depends on the device.
+
+
+## Reference access update — November 19, 2026
+Replaced DOI/publisher redirects with public reading routes. Retained original research where a free copy was located. Replaced the unavailable Elkind original with OpenStax’s explanation, NIA pages with MedlinePlus, the unavailable Alzheimer’s Association statement with Alzheimer’s Society general capacity guidance, and the SAHM publisher article with Agostino and Toulany (2023). Updated in-text citations. Non-U.S. guidance supports communication principles only; Texas law and HHS support the Texas section. NIH/NCBI may require a browser security check. Build passes.
